@@ -1,0 +1,39 @@
+{
+  "name": "insight-bridge-demo",
+  "version": "1.0.0",
+  "description": "Insight Bridge - Interactive Demo Platform. AI-native platform for consulting firms to rapidly understand client operations at project kickoff.",
+  "main": "app.js",
+  "bin": {
+    "insight-bridge": "./app.js"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "demo": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "consulting",
+    "digital-twin",
+    "knowledge-management",
+    "ai",
+    "demo",
+    "interactive"
+  ],
+  "author": "Insight Bridge Team - ESCP Business School",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/insight-bridge/demo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/insight-bridge/demo/issues"
+  },
+  "homepage": "https://github.com/insight-bridge/demo#readme",
+  "dependencies": {},
+  "devDependencies": {},
+  "preferGlobal": false,
+  "private": false
+}
